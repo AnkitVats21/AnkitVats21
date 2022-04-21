@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitvats21&label=Profile%20views&color=0e75b6&style=flat" alt="ankitvats21" /> </p>
 
-- 🌱 I’m currently learning **Fast API**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitVats21](https://github.com/AnkitVats21)
 
